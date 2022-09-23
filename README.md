@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Adam!
 
-<!--
-**abeige/abeige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in my final year of a B.S. in Data Science with a Computer Science concentration at the University of Illinois at Chicago.
 
-Here are some ideas to get you started:
+My main interests are data analysis and visualization with Python. Right now I am working on a project visualizing the spatial-temporal CTA 'L' ridership data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning SQL in CS 480 at UIC and completing the freeCodeCamp Relational Database certification.
+
+In my free time I tinker with hobby electronics and participate as a percussionist in the Lakeside Pride music ensembles. I am also co-captain of the UIC Robotics drone team. This year we are attempting to build an autonomous drone to participate in the [AUVSI SUAS Competition](https://suas-competition.org) in Maryland for the first time - check out our GitHub repository [here](https://github.com/chicagoedt/team-air)!
+
+#### Skills:
+- Python
+	- Pandas/GeoPandas
+	- NumPy
+	- scikit-learn
+- C/C++
+- Java/JavaScript
+- HTML, CSS
+- Bash scripting
+- Power BI
+- Git
+
+#### freeCodeCamp Certifications:
+- [Responsive Web Design](https://www.freecodecamp.org/certification/abeige/responsive-web-design)
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/abeige/scientific-computing-with-python-v7)
