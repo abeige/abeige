@@ -14,10 +14,8 @@ In my free time I tinker with hobby electronics and participate as a percussioni
 	- NumPy
 	- scikit-learn
 - C/C++
-- Java/JavaScript
 - HTML, CSS
 - Bash scripting
-- Power BI
 - Git
 
 #### freeCodeCamp Certifications:
