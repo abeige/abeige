@@ -6,8 +6,8 @@ My main interests are data analysis and visualization with Python.
 
 ## Current Projects:
 
-- CTA 'L' Ridership Data
-- EPA Greenhouse Gas Reporting Program
+- [CTA 'L' Ridership Data](https://github.com/abeige/cs424-project3)
+- [EPA Greenhouse Gas Reporting Program](https://github.com/abeige/ghgrp)
 
 ## About Me
 
