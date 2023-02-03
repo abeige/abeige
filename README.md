@@ -9,7 +9,6 @@ In my free time I tinker with hobby electronics and participate as a percussioni
 ## What I'm Working On:
 
 - [EDT Team Air @ UIC](https://github.com/chicagoedt/team-air-suas-2023)
-
 - [CTA 'L' Ridership Data](https://github.com/abeige/cs424-project3)
 - [EPA Greenhouse Gas Reporting Program](https://github.com/abeige/ghgrp)
 
