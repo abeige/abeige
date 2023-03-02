@@ -18,5 +18,3 @@ In my free time I tinker with hobby electronics and participate as a percussioni
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/abeige/scientific-computing-with-python-v7)
 - [Relational Database](https://www.freecodecamp.org/certification/abeige/relational-database-v8)
 - [Data Visualization](https://www.freecodecamp.org/certification/abeige/data-visualization) ([website](https://abeige.github.io/fcc-data-vis))
-
-test
