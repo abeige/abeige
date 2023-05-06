@@ -1,6 +1,6 @@
 # Hi, I'm Adam!
 
-I am in my final year of a B.S. in Data Science with a Computer Science concentration at the University of Illinois at Chicago.
+I recently graduated with a B.S. in Data Science with a Computer Science concentration from the University of Illinois at Chicago.
 
 My main interests are data analysis and visualization with Python and JavaScript.
 
