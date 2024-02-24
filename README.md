@@ -1,6 +1,6 @@
 # Hi, I'm Adam!
 
-I recently graduated with a B.S. in Data Science with a Computer Science concentration from the University of Illinois at Chicago and am currently employed as a Data Analyst at Discover Financial Services.
+I recently graduated with a B.S. in Data Science with a Computer Science concentration from the University of Illinois at Chicago and am currently employed as a data science analyst at Discover Financial Services.
 
 My main interests are data analysis and visualization with Python and JavaScript.
 
